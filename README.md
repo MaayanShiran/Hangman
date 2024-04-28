@@ -1,5 +1,7 @@
 # Hangman Game App
 
+![image](https://github.com/MaayanShiran/Hangman/assets/95546841/2f578c71-4549-40e4-825e-112d0820d8b1)
+
 Hangman is a classic word-guessing game now revitalized with a digital twist. Experience the traditional challenge paired with modern gameplay elements.
 
 ## Key Features
