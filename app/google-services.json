@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981082442630",
+    "project_id": "hangman-c20fa",
+    "storage_bucket": "hangman-c20fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981082442630:android:e9dafdab8448095f36fa07",
+        "android_client_info": {
+          "package_name": "com.maayan.hangman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrPxEqra8XrWR4Lu84Ebd9I74pmMiVx9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

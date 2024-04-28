@@ -1,0 +1,25 @@
+<!-- popup_page.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- WebView to display HTML content -->
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="16dp"/>
+
+    <!-- Close button -->
+    <ImageView
+        android:id="@+id/btnClose"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/cross"
+        android:layout_gravity="end"
+        android:layout_margin="16dp"
+        android:clickable="true"/>
+</LinearLayout>
