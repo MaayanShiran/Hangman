@@ -19,10 +19,10 @@ Hangman is a classic word-guessing game now revitalized with a digital twist. Ex
 
 ## Screenshots
 
-![image](https://github.com/MaayanShiran/Hangman/assets/95546841/c3a543f9-011a-4939-bba2-4f68a137fa3c)
-![image](https://github.com/MaayanShiran/Hangman/assets/95546841/fffdc3d6-e6c7-490d-9f5c-88c13b4bace3)
-![image](https://github.com/MaayanShiran/Hangman/assets/95546841/9ff88770-077a-4b98-81ce-fc819dab214d)
-![image](https://github.com/MaayanShiran/Hangman/assets/95546841/09819949-7a30-45bf-b939-ef975d8e37ad)
+| | | | |
+|:--:|:--:|:--:|:--:|
+| ![image](https://github.com/MaayanShiran/Hangman/assets/95546841/c3a543f9-011a-4939-bba2-4f68a137fa3c) | ![image](https://github.com/MaayanShiran/Hangman/assets/95546841/fffdc3d6-e6c7-490d-9f5c-88c13b4bace3) | ![image](https://github.com/MaayanShiran/Hangman/assets/95546841/9ff88770-077a-4b98-81ce-fc819dab214d) | ![image](https://github.com/MaayanShiran/Hangman/assets/95546841/09819949-7a30-45bf-b939-ef975d8e37ad) |
+
 
 
 ## Demo
