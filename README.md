@@ -29,4 +29,16 @@ Hangman is a classic word-guessing game now revitalized with a digital twist. Ex
 
 ## Demo
 
-Check out the [Demo Section](#demo) for a sneak peek at the Hangman in action!
+- **Watch Reward Ad when Out of Tokens**
+
+
+https://github.com/MaayanShiran/Hangman/assets/95546841/07f338b7-662e-4463-9bd6-d3e2a858ad5f
+
+
+- **Options Menu**
+
+
+https://github.com/MaayanShiran/Hangman/assets/95546841/877be899-bf72-4a45-998a-0acc82bcbebb
+
+
+  
